@@ -13,3 +13,6 @@ This is my very first repository with Coding Temple
     - `<remote_name>` will usually be `origin`
     - `<branch_name>` will usually be `main`
     - You can add `-u` flag to command to set up tracking
+6. Create a new branch: `git checkout -b <new_branch_name>`
+    -use `git checkout <branch_name>` to switch branches
+    -use `git branch` to get a list of existing branches

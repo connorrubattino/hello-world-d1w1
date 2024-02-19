@@ -1,8 +1,8 @@
-#First Repository
+# First Repository
 
 This is my very first repository with Coding Temple
 
-###Git Commands
+### Git Commands
 1. `git init` to create a new repository
 2. `git add <filename>` or `git add.` to add files to staged changes
 3. `git commit -m "YOUR MESSAGE HERE"` to commit(or take a snapshot)
